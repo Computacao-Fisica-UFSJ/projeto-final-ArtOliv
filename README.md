@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bQrFkq0H)
+Quantidade | Material | Link Eletrogate
+
+4 - **Matriz de Led 3mm 8x8** - https://www.eletrogate.com/matriz-de-led-3mm-8x8
+
+64 - **LED's** - https://www.eletrogate.com/led-difuso-5mm-amarelo
+
+32 - **Registrador 74HC595** - https://www.eletrogate.com/ci-74hc595-shift-register
+
+5 - **Botão** - https://www.eletrogate.com/push-button-chave-tactil-6x6x73mm
+
+**Protoboard de tamanho consideravelmente grande**
